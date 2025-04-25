@@ -1,4 +1,4 @@
-# Boardr (Group 12)
+# Boardr
 
 Welcome to the **Boardr** repository! This project is designed to create a platform for board game lovers to connect, share their games, and organize events. Whether you're a **Player** or a **Game Owner**, this app will help you manage your board game experiences seamlessly.
 
